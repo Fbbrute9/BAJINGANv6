@@ -1,7 +1,7 @@
 #!/system/xbin/bash
 #MauNgapainGblk?
 #DiRecodeGakBakalJadiinLuMastah
-#DiGantiAuthorGakBakalJadiinLuMaster
+#DiGantiAuthorGakBakalJadiinLuMastercoli
 #MikirMakeOtakGblk
 #KontolKaloMauReedit/Recode 
 #Pm Gua Bangsat
